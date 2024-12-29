@@ -11,5 +11,4 @@ ___
 ___
 #### Social
 ![](https://komarev.com/ghpvc/?username=jaymeklein) ![](https://www.codewars.com/users/jaymeklein/badges/small)<br>
-<img src="https://stackoverflow.com/users/flair/14391327.png?theme=dark" width="208" height="58" alt="profile for Jayme Klein at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayme Klein at Stack Overflow, Q&amp;A for professional and enthusiast programmers"><br>
 
