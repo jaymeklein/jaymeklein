@@ -9,4 +9,7 @@ ___
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ___
-![](https://komarev.com/ghpvc/?username=jaymeklein) ![](https://www.codewars.com/users/jaymeklein/badges/small)
+#### Social
+![](https://komarev.com/ghpvc/?username=jaymeklein) ![](https://www.codewars.com/users/jaymeklein/badges/small)<br>
+<img src="https://stackoverflow.com/users/flair/14391327.png?theme=dark" width="208" height="58" alt="profile for Jayme Klein at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jayme Klein at Stack Overflow, Q&amp;A for professional and enthusiast programmers"><br>
+
