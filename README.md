@@ -1,5 +1,5 @@
 ### Jayme Klein :snake:
-I'm a passionate full-stack software developer with 3 years of experience and a deep love for Python. I enjoy building innovative solutions, whether by creating new projects from scratch or contributing to existing open-source initiatives
+I'm a passionate full-stack software developer with 3 years of professional experience and a deep love for Python. I enjoy building innovative solutions, whether by creating new projects from scratch or contributing to existing open-source initiatives
 
 In addition to my development skills, I’m committed to making software more accessible by contributing to translations.
 
