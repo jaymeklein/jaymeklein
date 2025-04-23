@@ -1,9 +1,7 @@
 ### Jayme Klein :snake:
-I'm a passionate full-stack software developer with 3 years of professional experience and a deep love for Python. I enjoy building innovative solutions, whether by creating new projects from scratch or contributing to existing open-source initiatives
-
-In addition to my development skills, I’m committed to making software more accessible by contributing to translations.
-
-My interest in technology began at the age of 7, which eventually led me to pursue a degree in Computer Science at a Brazilian federal institution and transition into a full-time software development career. <br>
+Passionate full-stack software developer with 3 years of professional experience and a deep love for Python.<br>
+I enjoy building innovative solutions - whether creating projects from scratch, contributing to open-source, or using my skills to combat phishing scams by disrupting fraudulent operations. In addition to my development work, I'm committed to making technology more accessible through translations and safer through cybersecurity awareness.<br>
+My interest in technology began at age 7, leading me to pursue Computer Science at a Brazilian federal institution and transition into full-time software development. <br>
 ___
 #### Most Used Tech ✏️
 
