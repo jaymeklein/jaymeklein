@@ -1,7 +1,24 @@
 ### Jayme Klein :snake:
-Passionate full-stack software developer with 3 years of professional experience and a deep love for Python.<br>
-I enjoy building innovative solutions - whether creating projects from scratch, contributing to open-source, or using my skills to combat phishing scams by disrupting fraudulent operations. In addition to my development work, I'm committed to making technology more accessible through translations and safer through cybersecurity awareness.<br>
-My interest in technology began at age 7, leading me to pursue Computer Science at a Brazilian federal institution and transition into full-time software development. <br>
+Full-Stack Developer with 7 years of experience, mostly spent automating 
+things that shouldn't be manual and building backend systems that have to 
+work reliably at scale.
+
+My main playground is public sector software — procurement platforms, 
+government data pipelines, and multi-tenant systems. It's a niche space, 
+but it pushed me to care deeply about data integrity, system resilience, 
+and shipping things that actually hold up in production.
+
+Day-to-day I work with Python, FastAPI, Elasticsearch, PHP, and Angular. 
+Lately I've been going deep on LLMs, RAG pipelines, and AI agents — 
+integrating them as real engineering tools, not demos.
+
+Outside of work I build things that scratch my own itch. Lurebuster started 
+as an experiment in using multithreading to disrupt phishing operations by 
+flooding them with fake data. It turned into one of my favorite projects to 
+maintain.
+
+I hold a B.Sc. in Computer Science and I'm currently pursuing a postgrad 
+in Software Engineering with Applied AI. <br>
 ___
 #### Stack ✏️
 
